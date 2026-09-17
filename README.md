@@ -1,10 +1,12 @@
 # Navigi POS — Téléchargement
 
-Installateur officiel de **Navigi POS** pour Windows (10 et 11, 64 bits).
+Téléchargements officiels de **Navigi POS** : le logiciel pour Windows (10 et 11, 64 bits) et l'application Android.
 
 ## Télécharger la dernière version
 
-**[⬇ Télécharger Navigi POS](https://github.com/Issamhxr/navigi-pos-releases/releases/latest/download/Navigi-POS-setup.exe)**
+**[⬇ Télécharger pour Windows](https://github.com/Issamhxr/navigi-pos-releases/releases/latest/download/Navigi-POS-setup.exe)**
+
+**[⬇ Télécharger l'application Android](https://github.com/Issamhxr/navigi-pos-releases/releases/download/android/Navigi-POS.apk)**
 
 Toutes les versions et leurs nouveautés : [Releases](https://github.com/Issamhxr/navigi-pos-releases/releases)
 
@@ -18,8 +20,10 @@ Toutes les versions et leurs nouveautés : [Releases](https://github.com/Issamhx
 
 # Navigi POS — التنزيل
 
-المثبّت الرسمي لبرنامج **Navigi POS** على ويندوز (10 و11، 64 بت).
+التنزيلات الرسمية لـ **Navigi POS**: البرنامج لويندوز (10 و11، 64 بت) وتطبيق أندرويد.
 
-**[⬇ تنزيل Navigi POS](https://github.com/Issamhxr/navigi-pos-releases/releases/latest/download/Navigi-POS-setup.exe)**
+**[⬇ تنزيل نسخة ويندوز](https://github.com/Issamhxr/navigi-pos-releases/releases/latest/download/Navigi-POS-setup.exe)**
+
+**[⬇ تنزيل تطبيق أندرويد](https://github.com/Issamhxr/navigi-pos-releases/releases/download/android/Navigi-POS.apk)**
 
 إذا ظهرت رسالة « Windows a protégé votre PC »، اضغط على **Informations complémentaires** ثم **Exécuter quand même**.
