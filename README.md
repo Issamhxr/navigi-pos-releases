@@ -1,4 +1,4 @@
-# Navigi POS — Téléchargement
+# Navigi POS — Téléchargement0
 
 Téléchargements officiels de **Navigi POS** : le logiciel pour Windows (10 et 11, 64 bits) et l'application Android.
 
